@@ -1,0 +1,5 @@
+{
+  "name": "Grandmaster AI Studio",
+  "description": "An advanced chess assistant for game analysis, training, and strategic coaching. Features Lichess integration, PGN analysis, and grandmaster-level advice based on classic chess literature.",
+  "requestFramePermissions": []
+}
